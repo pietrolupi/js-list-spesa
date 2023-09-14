@@ -24,4 +24,16 @@ btnAzione.addEventListener('click', function(){
 })
 
 
+//se un tutor legge... perchè così non funziona?
+/* 
 
+btnAzione.addEventListener('click', function(){
+
+  while(counterSpesa === listaSpesa.length){
+   
+      messaggio.innerHTML += `<h1>${listaSpesa[counterSpesa]}</h1>`;
+      counterSpesa ++;
+   
+  }
+
+}); */
